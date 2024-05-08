@@ -1,12 +1,12 @@
 {
     "site_config": {
-        "host" : "0.0.0.0",
+        "host" : "host.docker.internal",
         "port" : 1338,
         "debug": false
     },
-    "openai_key": "sk-...",
+    "openai_key": "sk-cf32bd8708b1406795fb51c1dea053b8",
 
-    "openai_api_base": "https://api.openai.com",
+    "openai_api_base": "https://oni.openai.azure.com/",
     "proxy": {
         "enable": true,
         "http": "127.0.0.1:7890",
